@@ -35,7 +35,13 @@ plt.ylabel(ytitle)
 plt.bar(mylistx,mylisty)
 plt.show()
 
+<<<<<<< HEAD
 #just a comment
 #just another comment
 Print (mylistx2)
 print(mylisty2)
+=======
+#just a comment
+
+# add new comment
+>>>>>>> 284fba171cf834663688ac121c0f428f702366fa
